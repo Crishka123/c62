@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+}
+
+hr{
+    height: 5px;
+    background-color:blueviolet;
+}
+
+img:hover{
+    transform: scale(0.8);
+}
+
+#mycarousel{
+    background-color: blueviolet;
+}
